@@ -1,0 +1,42 @@
+body{
+    background: rgb(243, 225, 225);
+}
+
+.topnav{
+    
+    background-color: #ff808b;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+   
+
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: rgb(231, 226, 226);
+    color: black;
+}
+
+
+.img1 {
+  width: 100%;
+  height: auto;
+}
+.img02 {
+  width: 100%;
+  height: auto;
+
+}
+
+p{
+    font-family: 'Nunito', sans-serif;
+}
